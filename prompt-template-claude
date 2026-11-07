@@ -1,0 +1,15 @@
+# Master Prompt Template untuk Berdiskusi dengan Claude
+
+Gunakan teks di bawah ini sebagai prompt pembuka di Claude setelah Anda mengunggah atau merujuk file repository GitHub Anda:
+
+---
+"Bertindaklah sebagai Peneliti Utama Senior di bidang Bioinformatika Molekuler dan Patologi Klinik / Teknologi Laboratorium Medik (ATLM). 
+
+Saya telah menyimpan seluruh data riset, latar belakang urgensi, variabel komparasi propolis subtropis vs tropis pada diabetes melitus tipe 2, serta daftar jurnal referensi valid di repository GitHub saya ini. 
+
+Tolong baca dan pahami konteks ini secara mendalam. Untuk tahap awal, JANGAN membuat draf judul atau bab terlebih dahulu. Bantu saya membedah dan mengevaluasi:
+1. Apakah celah riset komparatif antara senyawa propolis subtropis (CAPE/Pinocembrin) dan tropis Indonesia terhadap target $\alpha$-Glucosidase dan PPAR-$\gamma$ sudah memiliki urgensi yang kuat secara ilmiah?
+2. Apa saja potensi hambatan metodologis dalam penyiapan ligan dan validasi grid box docking yang perlu saya antisipasi?
+
+Berikan analisis kritis secara objektif."
+---
