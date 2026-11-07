@@ -9,7 +9,7 @@
 ### B. Problemmatika Ekstrak Propolis Mentah & Kesenjangan Geografis (*Research Gap*)
 * **Variabilitas Fitokimia Ekstrak Mentah:** Sebagian besar riset *wet lab* menggunakan ekstrak propolis mentah tanpa standardisasi senyawa aktif yang jelas. Padahal, komposisi kimia propolis sangat dipengaruhi oleh vegetasi tumbuhan dan iklim wilayah lebah dalam mencari getah.
 * **Komparasi Subtropis vs Tropis:** Literatur menunjukkan bahwa lebah di wilayah iklim empat musim (Subtropis, *poplar-type*) menghasilkan kadar ester fenolik tinggi seperti CAPE (*Caffeic Acid Phenethyl Ester*) dan aglikon flavonoid (*Pinocembrin*, *Galangin*) sebagai mekanisme pertahanan suhu. Di sisi lain, propolis tropis Indonesia kaya akan senyawa prenilasi dan terpenoid. 
-* **Celah Penelitian:** Belum banyak studi komparatif *in-silico* yang secara presisi membedah afinitas ikatan molekuler antara senyawa khas propolis subtropis melawan propolis tropis Indonesia terhadap target protein multi-enzim diabetes secara bersamaan.
+* **Celah Penelitian:** Belum banyak studi komparatif *in-silico* yang secara presisi membedah afinitas ikatan molekuler antara senyawa khas propolis subtropis melawan propolis tropis Indonesia terhadap target protein multi-enzim diabetes secara bersamaan, atau bisa juga menjadi peluang riset ilmiah membahas masalah komprehensif lainnya secara bioinformatika untuk landasan awal sebelum transisi ke wet lab.
 
 ### C. Efisiensi Metodologis (Pendekatan Komputasi / Dry Lab)
 * **Kendala Uji Langsung:** Menguji ratusan kandidat senyawa secara acak langsung melalui laboratorium basah (*wet lab*) membutuhkan biaya besar, waktu yang lama, dan kendala etika hewan coba.
@@ -34,3 +34,4 @@
 * **Variabel Batasan Target (PDB ID):** 
   * Enzim $\alpha$-Glucosidase (PDB ID: `3W37`)
   * Reseptor PPAR-$\gamma$ (PDB ID: `2P4Y`)
+  * dan reseptor lainnya jika ditemukan lebih efektif
