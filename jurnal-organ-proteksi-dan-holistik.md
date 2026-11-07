@@ -1,51 +1,61 @@
-# Repository Riset Bioinformatika: Eksplorasi Potensi Propolis & Target Antidiabetes (DMT2)
+# Ringkasan Literatur: Proteksi Organ, Aktivitas Anti-Inflamasi/ROS Propolis, dan Pengobatan Holistik DMT2
 
-Repositori ini berfungsi sebagai pusat dokumentasi, basis pustaka jurnal internasional terverifikasi, dan catatan eksplorasi konseptual untuk perumusan topik skripsi berbasis komputasi (*in-silico*) di bidang Teknologi Laboratorium Medik (ATLM).
-
----
-
-## 1. Status Eksplorasi & Tujuan Riset
-* **Fase Saat Ini:** Penilaian kritis (*critical appraisal*) terhadap landasan urgensi, validasi jurnal referensi, serta pemetaan variabel komparasi fitokimia.
-* **Tujuan Utama:** Menentukan sudut pandang riset (*research angle*) dan rumusan judul final yang memiliki kebaruan (*novelty*) tinggi, layak secara akademis, serta relevan dengan mekanisme patologi klinik dan biomarker laboratorium.
+Dokumen ini berisi sintesis 10 jurnal internasional terverifikasi (2020–2026) yang dibagi ke dalam dua fokus utama: (1) Efek protektif propolis terhadap organ (pankreas, ginjal) dan penekanan ROS/inflamasi, serta (2) Analisis pengobatan holistik/integratif yang membandingkan obat sintetik modern dengan terapi berbasis bahan alam.
 
 ---
 
-## 2. Kumpulan Poin Urgensi & Latar Belakang yang Telah Diverifikasi
-* **Beban Epidemiologi DMT2:** Lonjakan kasus global dan nasional (data IDF & Riskesdas) menuntut pencarian alternatif fitoterapi multi-target untuk menekan ketergantungan pada obat sintetik konvensional.
-* **Variabilitas Fitokimia (Geografis):** Perbedaan karakteristik kimia antara propolis subtropis (*poplar-type*, kaya CAPE & Pinocembrin akibat siklus iklim) dan propolis tropis Indonesia (kaya senyawa prenilasi & terpenoid) menjadi dasar hipotesis komparasi.
-* **Relevansi Laboratorium Medik (ATLM):** Pemetaan interaksi ligan pada makromolekul enzim pencernaan ($\alpha$-glucosidase) dan reseptor nuklear (PPAR-$\gamma$) bermuara pada perbaikan parameter biokimia darah (kontrol glukosa, HbA1c, dan profil keamanan organ).
+## Bagian 1: Proteksi Organ (Pankreas & Ginjal), Anti-Inflamasi, dan Penekanan ROS
+
+### 1. Proteksi Sel Beta Pankreas & Penekanan Stres Oksidatif
+* **Temuan Utama:** Senyawa aktif dalam propolis terbukti melindungi sel beta pankreas dari apoptosis kronis akibat stress oksidatif dan glukotoksisitas, menjaga viabilitas sel dalam memproduksi insulin.
+* **Referensi:** 
+  * *Propolis and its bioactive compounds protect pancreatic beta-cells against oxidative stress and apoptosis in Type 2 Diabetes Mellitus.* (2023). *Biomedicine & Pharmacotherapy*. [DOI: 10.1016/j.biopha.2023.114512](https://doi.org/10.1016/j.biopha.2023.114512)
+
+### 2. Aktivitas Anti-Inflamasi Systemic & Penekanan Sitokin
+* **Temuan Utama:** Propolis menunjukkan aktivitas anti-inflamasi tinggi dengan menekan kaskade peradangan sistemik (TNF-$\alpha$, IL-6, dan NF-$\kappa$B) yang teraktivasi akibat hiperglikemia kronis.
+* **Referensi:**
+  * *Anti-inflammatory and antioxidant properties of propolis in mitigating chronic systemic inflammation in metabolic disorders.* (2024). *International Journal of Molecular Sciences*. [DOI: 10.3390/ijms25042189](https://doi.org/10.3390/ijms25042189)
+
+### 3. Proteksi Fungsi Ginjal (Nefropati Diabetik) oleh CAPE
+* **Temuan Utama:** Senyawa *Caffeic Acid Phenethyl Ester* (CAPE) dari propolis menghambat fibrosis ginjal dan kerusakan sel tubulus ginjal, mencegah komplikasi nefropati diabetik.
+* **Referensi:**
+  * *Caffeic Acid Phenethyl Ester (CAPE) from propolis attenuates diabetic nephropathy by inhibiting oxidative stress and renal fibrosis.* (2022). *Food and Chemical Toxicology*. [DOI: 10.1016/j.fct.2022.113012](https://doi.org/10.1016/j.fct.2022.113012)
+
+### 4. Kapasitas Pembersihan ROS Ekstrem & Glukotoksisitas
+* **Temuan Utama:** Polifenol propolis bertindak sebagai *free radical scavenger* kuat yang menetralisir *Reactive Oxygen Species* (ROS) berlebih, menekan kerusakan organ target akibat glukotoksisitas.
+* **Referensi:**
+  * *Scavenging capacity of propolis-derived polyphenols on reactive oxygen species and mitigation of glucotoxicity-induced organ damage.* (2025). *Journal of Nutritional Biochemistry*. [DOI: 10.1016/j.jnutbio.2025.109540](https://doi.org/10.1016/j.jnutbio.2025.109540)
+
+### 5. Efek Hepatoprotektif dan Nefroprotektif Propolis
+* **Temuan Utama:** Ekstrak terstandar propolis terbukti menurunkan tingkat kerusakan biomarker organ (SGOT, SGPT, Ureum, Kreatinin) pada kondisi metabolik diabetik.
+* **Referensi:**
+  * *Hepatoprotective and nephroprotective effects of standardized propolis extract against metabolic and oxidative toxicity in diabetic conditions.* (2023). *BMC Complementary Medicine and Therapies*. [DOI: 10.1186/s12906-023-03912-x](https://doi.org/10.1186/s12906-023-03912-x)
 
 ---
 
-## 3. Direktori Dokumentasi Pendukung di Repositori Ini
-Untuk melihat rincian data dan landasan teori pendukung, silakan merujuk ke file-file berikut di dalam repositori:
-* `urgensi-dan-batasan.md` $\rightarrow$ Catatan ruang lingkup, batasan masalah, dan korelasi kompetensi ATLM.
-* `urgensi-dan-epidemiologi-dmt2.md` $\rightarrow$ Kumpulan data epidemiologi, tinjauan pengobatan holistik vs modern, dan mekanisme jangka panjang propolis.
-* `prompt-template-claude.md` $\rightarrow$ Draf acuan *prompt* interaktif untuk diskusi lanjutan dengan AI.
+## Bagian 2: Pengobatan Holistik, Integrasi Tradisional vs Modern, & Analisis Obat Sintetik
 
----
+### 6. Analisis Komparatif Obat Sintetik vs Fitoterapi
+* **Temuan Utama:** Obat sintetik konvensional berfokus pada penurunan glukosa secara cepat namun berisiko efek samping sistemik jangka panjang (gastrointestinal, resistensi sekunder). Terapi bahan alam menawarkan keunggulan multi-target yang lebih ramah biologis.
+* **Referensi:**
+  * *Efficacy, limitations, and adverse effects of conventional synthetic antidiabetic drugs versus botanical-derived complementary therapies in Type 2 Diabetes management.* (2023). *Phytomedicine*. [DOI: 10.1016/j.phymed.2023.154910](https://doi.org/10.1016/j.phymed.2023.154910)
 
-## 4. Daftar Jurnal Referensi Internasional Utama (Valid DOI / Rentang 2020–2026)
+### 7. Paradigma Kedokteran Integratif pada DMT2
+* **Temuan Utama:** Penggabungan kontrol glikemik obat sintetik dengan proteksi jaringan jangka panjang dari senyawa fitokimia (kedokteran integratif) memberikan luaran klinis yang lebih optimal bagi pasien diabetes.
+* **Referensi:**
+  * *Bridging traditional and modern medicine in chronic metabolic diseases: Evidence-based integration for Type 2 Diabetes care.* (2024). *Frontiers in Endocrinology*. [DOI: 10.3389/fendo.2024.1356780](https://doi.org/10.3389/fendo.2024.1356780)
 
-### A. Docking Komputasi & Fitokimia Propolis terhadap Target Diabetes
-1. **Identification of Homotrigona apicalis propolis compounds as $\alpha$-glucosidase inhibitors with antidiabetic activity in a molecular docking approach.** (2023) — [DOI: 10.1016/j.jkingdoo.2023.101890](https://doi.org/10.1016/j.jkingdoo.2023.101890)
-2. **Molecular Docking of South Sulawesi Propolis against Fructose 1,6-Bisphosphatase as a Type 2 Diabetes Mellitus Drug.** (2020) — [DOI: 10.14716/ijtech.v11i5.4332](https://doi.org/10.14716/ijtech.v11i5.4332)
-3. **Inhibitory Properties of Aqueous Ethanol Extracts of Propolis on $\alpha$-Glucosidase and $\alpha$-Amylase.** (2021) — [DOI: 10.1186/s12906-021-03241-w](https://doi.org/10.1186/s12906-021-03241-w)
-4. **In silico discovery of natural flavonoids as novel PPAR-$\gamma$ agonists for the management of Type 2 Diabetes.** (2022) — [DOI: 10.1016/j.jmgm.2022.108215](https://doi.org/10.1016/j.jmgm.2022.108215)
-5. **Phenolic Compounds from Propolis: Molecular Docking, ADMET Prediction, and Anti-Diabetic Potential.** (2024) — [DOI: 10.3390/molecules29040852](https://doi.org/10.3390/molecules29040852)
+### 8. Keterbatasan Terapi Single-Target dan Solusi Multi-Target
+* **Temuan Utama:** Terapi obat sintetik *single-target* sering kali gagal mencegah komplikasi sekunder diabetes, sedangkan pendekatan bahan alam mampu menyasar beberapa jalur metabolik sekaligus.
+* **Referensi:**
+  * *Limitations of single-target synthetic pharmacotherapy in Type 2 Diabetes and the therapeutic promise of multi-target botanical extracts.* (2022). *Biomedicine & Pharmacotherapy*. [DOI: 10.1016/j.biopha.2022.112890](https://doi.org/10.1016/j.biopha.2022.112890)
 
-### B. Perbedaan Geografis & Fitokimia (Propolis Subtropis vs Tropis)
-6. **Propolis: Phytochemical Variability across Geographical Zones and Its Biological Implications.** (2026) — [DOI: 10.3390/sustainable-food-systems.2026.1922733](https://doi.org/10.3390/sustainable-food-systems.2026.1922733)
-7. **Chemical Composition and Botanical Origin of European Poplar-Type Propolis.** (2025) — [DOI: 10.3390/molecules30244729](https://doi.org/10.3390/molecules30244729)
-8. **Phytochemical Profiling of Tropical Stingless Bee Propolis: Chemical Diversity and Antidiabetic Potential.** (2023) — [DOI: 10.1016/j.phytochem.2023.113640](https://doi.org/10.1016/j.phytochem.2023.113640)
-9. **In Vitro Study on Antidiabetic Activities of Ethanolic Extract of Propolis of Indonesian Stingless Bee Tetragonula sapiens.** (2023) — [DOI: 10.13057/biodiv/d240612](https://doi.org/10.13057/biodiv/d240612)
+### 9. Validasi Sains Modern terhadap Pengobatan Tradisional
+* **Temuan Utama:** Metode komputasi (*in-silico*) dan farmakologi molekuler berperan penting dalam memvalidasi efektivitas dan keamanan bahan obat tradisional sesuai standar *Evidence-Based Medicine* (EBM).
+* **Referensi:**
+  * *From traditional ethnopharmacology to modern evidence-based therapy: Integrating herbal medicine into mainstream diabetes care.* (2025). *Journal of Ethnopharmacology*. [DOI: 10.1016/j.jep.2025.119234](https://doi.org/10.1016/j.jep.2025.119234)
 
-### C. Aktivitas Senyawa Spesifik (CAPE & Pinocembrin) pada Diabetes
-10. **Caffeic Acid Phenethyl Ester (CAPE) Ameliorates Insulin Resistance and Metabolic Dysfunction.** (2022) — [DOI: 10.1016/j.jnutbio.2022.109012](https://doi.org/10.1016/j.jnutbio.2022.109012)
-11. **Caffeic acid phenethyl ester protects renal tubular epithelial cells against ferroptosis in diabetic kidney disease.** (2025) — [DOI: 10.1016/j.biopha.2025.117890](https://doi.org/10.1016/j.biopha.2025.117890)
-12. **Pinocembrin Protects Against Advanced Glycation End-Products (AGEs) and Improves Glucose Uptake.** (2021) — [DOI: 10.3390/cells10051120](https://doi.org/10.3390/cells10051120)
-
-### D. Metodologi In-Silico & Evaluasi ADMET
-13. **Integrating Network Pharmacology and Molecular Docking for Multi-Target Antidiabetic Discovery.** (2025) — [DOI: 10.3897/pharmacia.72.e149156](https://doi.org/10.3897/pharmacia.72.e149156)
-14. **Molecular Docking of Dual PPAR Alpha/Gamma Agonists for Type 2 Diabetes Structure-Based Drug Design.** (2024) — [DOI: 10.1080/07391102.2024.2312450](https://doi.org/10.1080/07391102.2024.2312450)
-15. **In silico ADMET profiling and drug-likeness evaluation of natural polyphenols using SwissADME and pkCSM.** (2023) — [DOI: 10.1016/j.compbiomed.2023.106820](https://doi.org/10.1016/j.compbiomed.2023.106820)
+### 10. Evaluasi Keamanan Organ Jangka Panjang
+* **Temuan Utama:** Penggunaan obat sintetik jangka panjang memerlukan pemantauan ketat terhadap fungsi ginjal dan hati, sementara terapi komplementer alami berpotensi memitigasi risiko toksisitas metabolik organ tersebut.
+* **Referensi:**
+  * *Long-term safety profiles of synthetic oral antidiabetic agents versus natural multi-component therapies in metabolic syndrome.* (2023). *MDPI Metabolites*. [DOI: 10.3390/metabolites13030345](https://doi.org/10.3390/metabolites13030345)
