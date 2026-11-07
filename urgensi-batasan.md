@@ -7,7 +7,7 @@
 * **Kelemahan Agen Farmakologis Saat Ini:** Penggunaan obat antidiabetik oral konvensional (seperti Metformin atau Acarbose) sering kali menimbulkan efek samping gastrointestinal jangka panjang, risiko hipoglikemia, atau resistensi sekunder. Hal ini mendorong urgensi eksplorasi agen fitoterapi alternatif yang lebih spesifik dan aman.
 
 ### B. Problemmatika Ekstrak Propolis Mentah & Kesenjangan Geografis (*Research Gap*)
-* **Variabilitas Fitokimia Ekstrak Mentah:** Sebagian besar riset *wet lab* menggunakan ekstrak propolis mentah tanpa standardisasi senyawa aktif yang jelas. Padahal, komposisi kimia propolis sangat dipengaruhi oleh vegetasi tumbuhan dan iklim wilayah lebah mencari getah.
+* **Variabilitas Fitokimia Ekstrak Mentah:** Sebagian besar riset *wet lab* menggunakan ekstrak propolis mentah tanpa standardisasi senyawa aktif yang jelas. Padahal, komposisi kimia propolis sangat dipengaruhi oleh vegetasi tumbuhan dan iklim wilayah lebah dalam mencari getah.
 * **Komparasi Subtropis vs Tropis:** Literatur menunjukkan bahwa lebah di wilayah iklim empat musim (Subtropis, *poplar-type*) menghasilkan kadar ester fenolik tinggi seperti CAPE (*Caffeic Acid Phenethyl Ester*) dan aglikon flavonoid (*Pinocembrin*, *Galangin*) sebagai mekanisme pertahanan suhu. Di sisi lain, propolis tropis Indonesia kaya akan senyawa prenilasi dan terpenoid. 
 * **Celah Penelitian:** Belum banyak studi komparatif *in-silico* yang secara presisi membedah afinitas ikatan molekuler antara senyawa khas propolis subtropis melawan propolis tropis Indonesia terhadap target protein multi-enzim diabetes secara bersamaan.
 
